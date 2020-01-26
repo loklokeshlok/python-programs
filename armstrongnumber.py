@@ -9,11 +9,3 @@ if(e==r):
 	print("sucess")
 else:
 	print("no problem")
-a=100
-a=a/2
-print(a)
-b=100
-b=b//2
-print(b)
-print(a)
-
